@@ -1,7 +1,7 @@
 # MLeVLM
 MLeVLM: Improve Multi-level Progressive Capabilities based on Multimodal Large Language Model for Medical Visual Question Answering
 
-![image](https://github.com/RyannChenOO/MLeVLM/imgs/model.pdf)
+![image](https://github.com/RyannChenOO/MLeVLM/blob/main/imgs/model.pdf)
 
 # Data
 
